@@ -32,7 +32,7 @@
 
 🔥 **My Stats:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiken-kazin&layout=compact&theme=default)
 
 
 <!--
