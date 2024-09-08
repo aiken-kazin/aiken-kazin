@@ -12,7 +12,7 @@
 ## Языки и инструменты 🛠️
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Tableau]
+![Tableau](https://img.shields.io/badge/-Tableau-000?style=flat&logo=tableau)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=sqlite)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas)
