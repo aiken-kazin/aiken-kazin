@@ -21,7 +21,6 @@
 ![scikit-learn](https://img.shields.io/badge/-ScikitLearn-000?style=flat&logo=scikitlearn)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?style=flat&logo=apache-airflow)
 
-🤘 **Умею:**
 
 - Проведение A/B тестов и bootstrap, регрессионного и когортного анализа с помощью Python
 - Использовать алгоритмы машинного обучения
