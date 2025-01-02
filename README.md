@@ -5,28 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiken-kazin-302648208)
 
 
-## Языки и инструменты 🛠️
-
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Tableau](https://img.shields.io/badge/-Tableau-000?style=flat&logo=tableau)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)
-![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=sqlite)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas)
-![SciPy](https://img.shields.io/badge/-SciPy-000?style=flat&logo=scipy)
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/-ScikitLearn-000?style=flat&logo=scikitlearn)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?style=flat&logo=apache-airflow)
-
-
-- Проведение A/B тестов и bootstrap, регрессионного и когортного анализа с помощью Python
-- Использовать алгоритмы машинного обучения
-- SQL: вложенные запросы, оконные функции, конструкции CASE
-- Работа над проектами в системе контроля версий Git
-- Формирование дашбордов
-- Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
-- Автоматизация процессов через Airflow
-- Написание ad-hoc запросов
-
 
 🔥 **My Stats:**
 
